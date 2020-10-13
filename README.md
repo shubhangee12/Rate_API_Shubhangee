@@ -6,9 +6,10 @@
 
 3.Open Project in intellij and add Plugin "Cucumber for Java"
 
-4.Run Project using command : mvn clean verify
+4.Run Project using command : 
 
-	  or run test runner file from location : src\test\java\com\companyname\projectname\testrunners\TestRunner.java
+	mvn clean verify
+	or run test runner file from location : src\test\java\com\companyname\projectname\testrunners\TestRunner.java
 
 5.Check report at location : target/cucumber-reports/report.html
 
