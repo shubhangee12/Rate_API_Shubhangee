@@ -10,6 +10,12 @@
 
 	mvn clean verify
 	or run test runner file from location : src\test\java\com\companyname\projectname\testrunners\TestRunner.java
+Note:
+at end of execution below error will be shown as for some negative scenarioes incorrect data has been added in examples.
+Please check the Cucumber report for detailed execution report.
+
+Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.16:test (default-test) on project RestAssuredCucumber: There are test failures.
+
 
 5.Check report at location : target/cucumber-reports/report.html
 
