@@ -32,4 +32,6 @@ Scenarios Covered:
 	4.Validation of Response body when Endpoint is Valid and queryParameter provided
 
 	5. Validation Date for Rate API"API - To get past conversion rates" 
-
+	//Rates are shown as per Timezone and date hence for today and also future date yesterday's Date shown,
+	hence instead of getting current date added date in input for verification.
+	
