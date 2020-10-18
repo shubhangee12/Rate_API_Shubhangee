@@ -1,3 +1,4 @@
+Rate API Automation Framework using Rest Assured and Cucumber
 
 
 1.Refer RateAPITestCase.xlsx for Manual Test Cases.
